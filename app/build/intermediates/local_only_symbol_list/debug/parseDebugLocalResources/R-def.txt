@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color button_background
+color card_background
+color layout_background
+color normal
+color obese
+color over_weight
+color text_hint
+color underweight
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCalc
+id constraintLayout
+id cvHeight
+id cvResult
+id cvWeight
+id eTHeight
+id eTWeight
+id etCm
+id etKG
+id main
+id tVHeight
+id tVWeight
+id tVindex
+id tvInfo
+id tvResult
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.BMICalculator
+style Theme.BMICalculator
+xml backup_rules
+xml data_extraction_rules

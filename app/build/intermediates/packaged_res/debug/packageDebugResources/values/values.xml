@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="button_background">#CCA968</color>
+    <color name="card_background">#28425C</color>
+    <color name="layout_background">#222830</color>
+    <color name="normal">#3FE645</color>
+    <color name="obese">#873530</color>
+    <color name="over_weight">#7A2945</color>
+    <color name="text_hint">#696D80</color>
+    <color name="underweight">#F0A637</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">BMICalculator</string>
+    <style name="Base.Theme.BMICalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.BMICalculator" parent="Base.Theme.BMICalculator"/>
+</resources>
